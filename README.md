@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @bertilegh
-- 👀 I’m interested in programming!
+- 👋 Hi, this is my school account.
+- 👀 I’m working on a game for school here.
 - 🌱 I’m currently learning Rust!
-- 💞️ I’m looking to collaborate on Pirates Total!
-- 📫 How to reach me: pm me!
-- 😄 Pronouns: they/them.
+- 😄 Pronouns: any/all.
 - ⚡ Fun fact: ^.^
 
 <!---
