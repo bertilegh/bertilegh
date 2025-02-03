@@ -1,4 +1,4 @@
-- 👋 Heya!
+Heya!
 - 👀 I’m working on some private projects here.
 - 🌱 I’m currently learning.
 - 😄 Pronouns: any/all.
