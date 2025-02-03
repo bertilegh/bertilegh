@@ -1,6 +1,6 @@
-- 👋 Hi, this is my school account.
-- 👀 I’m working on a game for school here.
-- 🌱 I’m currently learning Rust!
+- 👋 Heya!
+- 👀 I’m working on some private projects here.
+- 🌱 I’m currently learning.
 - 😄 Pronouns: any/all.
 - ⚡ Fun fact: ^.^
 
