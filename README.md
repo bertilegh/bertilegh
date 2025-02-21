@@ -3,6 +3,7 @@ Heya!
 - 🌱 I’m currently learning.
 - 😄 Pronouns: any/all.
 - ⚡ Fun fact: ^.^
+- ☯️ Matrix: @bertil-egh:matrix.org
 
 <!---
 bertilegh/bertilegh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
