@@ -1,6 +1,6 @@
 Heya!
 - 👀 I’m working on some private projects here.
-- 🌱 I’m currently learning so bleas be kind.
+- 🌱 I’m currently learning so be kind.
 - 😄 Pronouns: any/all.
 - ⚡ Bless up ^.^
 - ☯️ Matrix: @bertil-egh:matrix.org
